@@ -3,7 +3,7 @@
 ## 🧠 Contexto del caso
 Nos incorporamos como Data Analyst a *PGO Media&News*, un diario digital en rápido crecimiento, conocido por su enfoque en periodismo de datos. La dirección ha solicitado **un prototipo de dashboard en Excel** para visualizar los indicadores clave de tráfico web, mientras se define qué herramienta de Business Intelligence (BI) se implementará en el futuro.
 
-Este dashboard será iterado durante algunos meses, por lo que su diseño inicial debe ser funcional, informativo y flexible a cambios.
+Este dashboard será utilizado durante algunos meses, por lo que su diseño inicial debe ser funcional, informativo y flexible a cambios.
 
 ---
 
