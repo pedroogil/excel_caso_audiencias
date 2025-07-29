@@ -71,4 +71,7 @@ Este patrón sugiere que el comportamiento del lector está altamente condiciona
 ---
 
 ## ✍️ Autor
-**Pedro Gil Olivares**
+
+**Pedro Gil Olivares**  
+Graduado en Dirección de Empresas y Marketing · Trainee Data Analyst  
+LinkedIn -> https://www.linkedin.com/in/pedro-gil-olivares-485517216/
